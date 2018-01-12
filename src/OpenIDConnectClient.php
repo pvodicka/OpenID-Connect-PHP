@@ -21,7 +21,7 @@
  *
  */
 
-namespace Jumbojett;
+namespace Pvodicka;
 
 /**
  * Use session to manage a nonce
