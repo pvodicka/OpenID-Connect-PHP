@@ -23,7 +23,7 @@
 
 require "../../autoload.php";
 
-use Jumbojett\OpenIDConnectClient;
+use Pvodicka\OpenIDConnectClient;
 
 $oidc = new OpenIDConnectClient('http://myproviderURL.com/',
                                 'ClientIDHere',
